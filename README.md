@@ -1,5 +1,5 @@
 # Mutual Fund Performance Insights
-
+# Website (https://akshatshuklaproject.streamlit.app/)
 ## Overview
 This project was developed for the RAGathon challenge hosted by IIT Madras Shaastra. The goal of the project is to provide insights into mutual fund performance by analyzing detailed month-wise reports of various mutual fund schemes across several financial years, spanning from FY’ 21-22 to FY’ 23-24. The provided datasets contain a range of fields offering comprehensive financial, operational, and management insights essential for assessing the performance, size, and operational scope of the mutual funds. These datasets serve as critical tools for performance tracking, investor reporting, and ensuring compliance with regulatory standards.
 
